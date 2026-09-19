@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Bhumika Sharma 👋
 
-<!--
-**Bhumika-nova/Bhumika-nova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Development Engineer with a strong focus on **modern Android development** and **production software systems**. I enjoy building resilient, user-centric applications from architecture to deployment.
 
-Here are some ideas to get you started:
+### 🚀 Highlights
+- 📱 **Shipped to Production:** Built and deployed **Solset**, an IoT-enabled solar monitoring app, directly to the **Google Play Store**.
+- 🏆 **Smart India Hackathon 2024:** Top 5 Finalist among 500+ teams nationwide for developing an anti-spoofing attendance system for **GAIL Ltd.**
+- 📄 **Research & Rigor:** Presented a research paper at the *3rd International Conference on AI, ML, and Cybersecurity (2025)*.
+- 💡 **Problem Solving:** Solved **200+ Data Structures & Algorithms** problems on LeetCode.
+- 👥 **Leadership:** Vice President of **Proximus** (College Technical Society).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ What I Work With
+- **Languages:** Kotlin, Java, SQL, C/C++
+- **Mobile Development:** Jetpack Compose, Android SDK, MVVM, XML, Room Database
+- **Networking & Protocols:** Retrofit, REST APIs, MQTT, Coroutines & Flow
+- **Tools & Platforms:** Git/GitHub, Android Studio, Firebase, Google Play Console, Postman
