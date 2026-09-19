@@ -59,7 +59,7 @@
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Bhumika_Sharma-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumika-sharma-536547258/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode_bhumikash02-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/bhumikash02/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode_bhumikash02-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/bhumika_sh/)
 [![Email](https://img.shields.io/badge/-bhumikash02@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhumikash02@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhumika-nova)
 
