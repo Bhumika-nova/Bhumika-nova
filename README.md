@@ -10,7 +10,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/-Retrofit-22D3EE?style=flat-square&logo=fastapi&logoColor=black)
 ![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=eclipsemqtt&logoColor=white)
-![LeetCode](https://img.shields.io/badge/-LeetCode_200+-FFA116?style=flat-square&logo=leetcode&logoColor=white)
+![LeetCode](https://img.shields.io/badge/-LeetCode_250+-FFA116?style=flat-square&logo=leetcode&logoColor=white)
 
 > Building production-grade Android apps, real-time IoT integrations, and scalable client architecture. Focused on high-performance UIs, coroutine-first data pipelines, and clean MVVM design.
 
