@@ -12,7 +12,7 @@
 ![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=eclipsemqtt&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/-LeetCode_250+-FFA116?style=flat-square&logo=leetcode&logoColor=white)
 
-> Building production-grade Android apps, real-time IoT integrations, and scalable client architecture. Focused on high-performance UIs, coroutine-first data pipelines, and clean MVVM design.
+> Building production grade Android apps, real-time IoT integrations, and scalable client architecture. Focused on high-performance UIs, coroutine first data pipelines, and clean MVVM design.
 
 ---
 
