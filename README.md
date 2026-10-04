@@ -1,6 +1,6 @@
-# Hi, I'm Bhumika 👋
+# Hi, I'm Bhumika 
 
-📍 **New Delhi, India** | 📱 **Android & Kotlin Developer** 
+📍 **New Delhi, India** |**Android & Kotlin Developer** 
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -18,17 +18,17 @@
 
 ## Featured Projects
 
-### 📱 Production & Real-time Android Apps
+### Production & Real-time Android Apps
 
-- ☀️ **[Solset](https://play.google.com/store/apps/details?id=skilancer.solar.solset&hl=en)** — IoT-enabled solar monitoring & control app **deployed on Google Play Store**. Built with Kotlin, Jetpack Compose, MVVM, Retrofit REST APIs, and MQTT for low-latency hardware telemetry.
-- 📍 **[GeoTracker](https://github.com/Bhumika-nova/GeoTrack)** — Anti spoofing attendance system built for **GAIL Ltd.** (*Smart India Hackathon '24 Top 5 Finalist*). Features dual-layer validation via OpenStreetMap geofencing and authorized Wi-Fi BSSID verification with Firebase real-time sync.
-- 🏃 **[Xtride](https://github.com/Bhumika-nova/Xtride-Fitness-App-)** — Offline first health and activity tracker with Jetpack Compose, Room Database local persistence, Google Fit API integration, and MPAndroidChart data visualization.
+- **[Solset](https://play.google.com/store/apps/details?id=skilancer.solar.solset&hl=en)** — IoT-enabled solar monitoring & control app **deployed on Google Play Store**. Built with Kotlin, Jetpack Compose, MVVM, Retrofit REST APIs, and MQTT for low-latency hardware telemetry.
+- **[GeoTracker](https://github.com/Bhumika-nova/GeoTrack)** — Anti spoofing attendance system built for **GAIL Ltd.** (*Smart India Hackathon '24 Top 5 Finalist*). Features dual-layer validation via OpenStreetMap geofencing and authorized Wi-Fi BSSID verification with Firebase real-time sync.
+- **[Xtride](https://github.com/Bhumika-nova/Xtride-Fitness-App-)** — Offline first health and activity tracker with Jetpack Compose, Room Database local persistence, Google Fit API integration, and MPAndroidChart data visualization.
 
-### 🧱 Architecture, Tooling & Core Systems
+### Architecture, Tooling & Core Systems
 
-- 🏛️ **[Android-MVVM-Template](https://github.com/Bhumika-nova)** — Clean architecture starter template for modern Android featuring Jetpack Compose, Dagger Hilt DI, Coroutines & Flow, and Room DB.
-- 📡 **[MQTT-Android-Client](https://github.com/Bhumika-nova)** — Lightweight, coroutine-powered MQTT wrapper for reliable Android-to-IoT communication with automatic reconnect & exponential backoff.
-- 🧩 **[DSA-Solutions-Archive](https://github.com/Bhumika-nova)** — Optimized implementations of 200+ Data Structures and Algorithms problems in Java & C++ (Arrays, Graphs, Trees, Dynamic Programming).
+- **[Android-MVVM-Template](https://github.com/Bhumika-nova)** — Clean architecture starter template for modern Android featuring Jetpack Compose, Dagger Hilt DI, Coroutines & Flow, and Room DB.
+- **[MQTT-Android-Client](https://github.com/Bhumika-nova)** — Lightweight, coroutine-powered MQTT wrapper for reliable Android-to-IoT communication with automatic reconnect & exponential backoff.
+- **[DSA-Solutions-Archive](https://github.com/Bhumika-nova)** — Optimized implementations of 200+ Data Structures and Algorithms problems in Java & C++ (Arrays, Graphs, Trees, Dynamic Programming).
 
 ---
 
@@ -37,22 +37,12 @@
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Bhumika-nova)
 
 ---
-
-## What I'm Doing
-
-- 📱 **Modern Android Development** — Crafting reactive native UIs with Jetpack Compose and modern unidirectional data flow (UDF).
-- ⚡ **Real-time Telemetry & Protocols** — Bridging edge IoT hardware and mobile devices using MQTT and REST API architectures.
-- 🧠 **Algorithmic Problem Solving** — Actively sharpening problem-solving skills across 200+ solved LeetCode challenges.
-- 🔬 **Applied Research** — Co-authored and presented research at the *3rd International Conference on AI, ML, and Cybersecurity (2025)*.
-
----
-
 ## Recognition & Impact
 
-- 🏆 **Smart India Hackathon 2024 Top 5 Finalist** — Selected among 500+ national teams for developing *GeoTracker* for GAIL Ltd.
-- 🚀 **Google Play Store Release** — Successfully shipped *Solset* to production for real-time solar tracking.
-- 📄 **Conference Research Paper** — Presented at the *3rd International Conference on Artificial Intelligence, Machine Learning and Cybersecurity (2025)*.
-- 👥 **Vice President of Proximus** — Led technical workshops, code events, and initiatives for our university technical society.
+-  **Smart India Hackathon 2024 Top 5 Finalist** — Selected among 500+ national teams for developing *GeoTracker* for GAIL Ltd.
+-  **Google Play Store Release** — Successfully shipped *Solset* to production for real-time solar tracking.
+- **Conference Research Paper** — Presented at the *3rd International Conference on Artificial Intelligence, Machine Learning and Cybersecurity (2025)*.
+- **Vice President of Proximus** — Led technical workshops, code events, and initiatives for our university technical society.
 
 ---
 
@@ -65,15 +55,3 @@
 
 ---
 
-### Philosophy
-
-> "Write code that survives production. Clean architecture, coroutine-first data flow, and reliable systems that solve real user problems."
-
-<details>
-<summary>Random Facts</summary>
-
-- Enjoy debugging tricky state recompositions in Jetpack Compose
-- Strong believer that solid CS fundamentals outlive fleeting framework trends
-- Prefer Kotlin Coroutines and StateFlow over messy callbacks any day
-
-</details>
