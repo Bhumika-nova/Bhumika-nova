@@ -1,6 +1,6 @@
 # Hi, I'm Bhumika 
 
-📍 **New Delhi, India** |**Android & Kotlin Developer** 
+📍 **Earth** | **Android & Kotlin Developer** 
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
