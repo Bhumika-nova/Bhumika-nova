@@ -12,15 +12,13 @@
 ![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=eclipsemqtt&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/-LeetCode_250+-FFA116?style=flat-square&logo=leetcode&logoColor=white)
 
-> Building production grade Android apps, real-time IoT integrations, and scalable client architecture. Focused on high-performance UIs, coroutine first data pipelines, and clean MVVM design.
-
 ---
 
 ## Featured Projects
 
-### Production & Real-time Android Apps
+### Production & Real time Android Apps
 
-- **[Solset](https://play.google.com/store/apps/details?id=skilancer.solar.solset&hl=en)** — IoT-enabled solar monitoring & control app **deployed on Google Play Store**. Built with Kotlin, Jetpack Compose, MVVM, Retrofit REST APIs, and MQTT for low-latency hardware telemetry.
+- **[Solset][Internship](https://play.google.com/store/apps/details?id=skilancer.solar.solset&hl=en)** — IoT enabled solar monitoring & control app **deployed on Google Play Store**. Built with Kotlin, Jetpack Compose, MVVM, Retrofit REST APIs, and MQTT for low latency hardware telemetry.
 - **[GeoTracker](https://github.com/Bhumika-nova/GeoTrack)** — Anti spoofing attendance system built for **GAIL Ltd.** (*Smart India Hackathon '24 Top 5 Finalist*). Features dual-layer validation via OpenStreetMap geofencing and authorized Wi-Fi BSSID verification with Firebase real-time sync.
 - **[Xtride](https://github.com/Bhumika-nova/Xtride-Fitness-App-)** — Offline first health and activity tracker with Jetpack Compose, Room Database local persistence, Google Fit API integration, and MPAndroidChart data visualization.
 
